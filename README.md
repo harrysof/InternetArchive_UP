@@ -1,6 +1,6 @@
 # Internet Archive Uploader
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpg)
 
 A desktop GUI tool for batch-uploading files to [Archive.org](https://archive.org).
 
